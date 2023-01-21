@@ -1,0 +1,37 @@
+body{
+    background: linear-gradient(rgb(254, 203, 203) 0%, rgb(168, 3, 69) 100% );
+}
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin:0;
+    box-shadow: 5px 5px 5px rgb(2, 2, 69);
+}
+h2
+{
+    font-size: 50px;
+    color: black;
+    font-family: 'Great Vibes', cursive;
+}
+.note{
+    font-size: 25px;
+    color:rgb(244, 216, 226);
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+.footer{
+    color: rgb(225, 1, 1);
+    font-size: 35px;
+    position: fixed;
+    background-color: rgb(255, 255, 255);
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align:center;
+    text-shadow: 2px 2px 2px grey;
+    font-family: 'Fleur De Leah', cursive;
+}
+canvas{
+    border: 5px solid rgb(220, 91, 240);
+    border-radius: 25;
+    box-shadow: 5px 5px 5px rgb(255, 254, 254);
+}
